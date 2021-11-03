@@ -1,2 +1,2 @@
 # curly-fortnight
-Git demo
+Welcome to our demonstration repository : )
